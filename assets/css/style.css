@@ -9,7 +9,7 @@
     width: auto;
     height: 977px;
     position: relative;
-    background-image: url(https://raw.githubusercontent.com/C0w0ke/Gradient/7d3ed9cac004dccd427f67432478c5c4a8c33d56/assets/img/space.png) center / cover no-repeat;
+    background: url(/assets/img/space.png) center / cover no-repeat;
     filter: brightness(90%);
     display: flex;
     align-items: center;
